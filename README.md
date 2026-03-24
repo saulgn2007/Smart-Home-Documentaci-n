@@ -24,4 +24,4 @@ Para ejecutarlo, debemos tener el id Visual Studio Code, con la extension Live S
 
 
 ## 🎨Figma
-[https://www.figma.com/design/sVNQX8Ma6YhMatdA3VqhX3/NextHome?node-id=0-1&t=NZihnjyYAXribTnu-1](url)
+[https://www.figma.com/design/sVNQX8Ma6YhMatdA3VqhX3/NextHome?node-id=0-1&t=RGp9flaZJIHupRKm-1](url)
